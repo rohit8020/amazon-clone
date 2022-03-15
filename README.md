@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Installation Steps
 
 
@@ -26,3 +27,7 @@ Run commands
 ### If you see the window below then you are set to build AMAZON 2.0!
 
 ![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
+=======
+# amazon-clone
+This the amazon clone app build in ReactJs, NextJS, Tailwind-CSS, Redux, etc.
+>>>>>>> a195833753a171d1779fe566b6d7a99525847669
