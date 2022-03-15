@@ -1,3 +1,15 @@
 hero icons
 nextjs
 tailwind
+nextjs is the framework for react server side rendering
+
+
+objectFit="contain"
+"cursor-pointer"
+"flex"
+"mt-2" margin-top of 2
+"p-1" padding of 1
+"sm:flex-grow-0"  when it pass the small screen
+"h-12" height of 12
+"w-6" widht of 6
+"focus:outline-none"
