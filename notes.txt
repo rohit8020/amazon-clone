@@ -13,3 +13,6 @@ objectFit="contain"
 "h-12" height of 12
 "w-6" widht of 6
 "focus:outline-none"
+
+react-responsive-carousel 
+and its css

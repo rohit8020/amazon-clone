@@ -52,6 +52,10 @@ function Header() {
             <MenuIcon className='h-6 mr-1'/>All
         </p>
         <p className='link'>Prime Video</p>
+        <p className='link'>Amazon Games</p>
+        <p className='link'>Amazon Business</p>
+        <p className='link hidden md:inline-flex'>Amazon Pay</p>
+        <p className='link hidden md:inline-flex'>Amazon Rewards</p>
     </div>
     </header>
   );
