@@ -16,3 +16,4 @@ objectFit="contain"
 
 react-responsive-carousel 
 and its css
+react currency formatter

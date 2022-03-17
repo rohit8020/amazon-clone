@@ -26,7 +26,7 @@ function Banner() {
                 <img loading='lazy' src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/80dd3ec5-834f-4e74-b688-70b29c77f5bc_scaled.jpg" alt="🙋" />
             </div>
         </Carousel>
-    </div>
+        </div>
   )
 }
 
